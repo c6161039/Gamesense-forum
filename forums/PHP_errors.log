@@ -1,0 +1,11 @@
+[23-Dec-2021 19:55:00 Europe/Moscow] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'gamesens_skeet'@'localhost' (using password: YES) in /home/y/y60313g2/gamesense.bid/public_html/forums/check.php on line 2
+[23-Dec-2021 19:55:00 Europe/Moscow] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/y/y60313g2/gamesense.bid/public_html/forums/check.php on line 3
+[23-Dec-2021 19:55:00 Europe/Moscow] PHP Notice:  Undefined index: nopass in /home/y/y60313g2/gamesense.bid/public_html/forums/check.php on line 6
+[23-Dec-2021 19:55:00 Europe/Moscow] PHP Notice:  Undefined index: hwid in /home/y/y60313g2/gamesense.bid/public_html/forums/check.php on line 7
+[23-Dec-2021 19:55:00 Europe/Moscow] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/y/y60313g2/gamesense.bid/public_html/forums/check.php on line 10
+[23-Dec-2021 19:55:00 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/y/y60313g2/gamesense.bid/public_html/forums/check.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/y/y60313g2/gamesense.bid/public_html/forums/check.php on line 11
+[23-Dec-2021 19:57:43 Europe/Moscow] PHP Notice:  Undefined index: nopass in /home/y/y60313g2/gamesense.bid/public_html/forums/check.php on line 6
+[23-Dec-2021 19:57:43 Europe/Moscow] PHP Notice:  Undefined index: hwid in /home/y/y60313g2/gamesense.bid/public_html/forums/check.php on line 7
