@@ -1,5 +1,6 @@
-# gamesense_forum
-fake gamesenseforum
+# Info
+fake skeetforum
+
 by fluxbb
 
 # GPL
