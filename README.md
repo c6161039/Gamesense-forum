@@ -1,5 +1,6 @@
 # Info
 fake skeetforum
+Pls use aapanel to build this forum
 
 by fluxbb
 
