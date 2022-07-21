@@ -1,11 +1,13 @@
 # Info
 fake skeetforum
+
+
 Pls use aapanel to build this forum
 
 
 by fluxbb
 
-# Info
+# Contact
 QQ:970451244
 Discord:Longteng#4898
 
