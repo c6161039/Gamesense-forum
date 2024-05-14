@@ -1,17 +1,15 @@
 # Info
-fake skeetforum
+Reminiscent of the Gamesense forums!
 
+To build this, please ensure you're using MySQL 5.x and PHP 5.x versions.<br>Don't forget to change the link to the MySQL database in `config.php` located in the Forums directory. <br>Recapctha options in cache_config.php
 
-Pls use aapanel to build this forum
+note: the in-forum setting does not work. pls change this`/cache/forums/cache_config.php` 
 
+Powered by FluxBB.
 
-by fluxbb
+# Forum Credentials  
+- **Account**: admin  
+- **Password**: admin  
 
 # Contact
-QQ:970451244
-
-
-Discord:Longteng#4898
-
-# GPL V3
-<img src="https://s1.ax1x.com/2022/05/05/OeogXV.png" />
+If you have any questions or concerns, feel free to reach out via Discord: Longteng#4898
